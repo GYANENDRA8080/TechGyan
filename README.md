@@ -1,6 +1,6 @@
-# TechGyan Online Learning Platform
+# iSchool-ELearning Management System
 
-TechGyan (E-Learning Management System)” is comes under the Web Based Application. This application is developed with the help of HTML, CSS, Bootstrap, PHP, MySQL. iSchool is a powerful Learning Management System implementing the latest trends in e-learning. A flexible web-based learning experience allows you to go through a guided 
+iSchool (E-Learning Management System)” is comes under the Web Based Application. This application is developed with the help of HTML, CSS, Bootstrap, PHP, MySQL. iSchool is a powerful Learning Management System implementing the latest trends in e-learning. A flexible web-based learning experience allows you to go through a guided 
 curriculum or choose lessons on an as-needed basis.
 
 ![](website-images/website-HomePage.PNG)
